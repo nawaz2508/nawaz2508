@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack web development**
 
-- 👨‍💻 All of my projects are available at [https://mohdnawazportfolio.netlify.app/](https://mohdnawazportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohdnawazportfolio.herokuapp.com/](https://mohdnawazportfolio.herokuapp.com/)
 
 - 📫 How to reach me **kmnawaz25@gmail.com**
 
